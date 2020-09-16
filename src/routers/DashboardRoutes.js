@@ -1,5 +1,5 @@
 import React from 'react';
-import { Navbar } from '../components/ui/Navbar';
+import { Navbar } from '../components/ui/NavBar';
 import { Switch, Route, Redirect } from 'react-router-dom';
 
 import { MarvelScreen } from '../components/marvel/MarvelScreen';
